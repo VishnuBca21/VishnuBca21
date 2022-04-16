@@ -8,7 +8,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me **vishnubca969@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=velava1411&label=Profile%20views&color=0e75b6&style=flat" alt="velava1411" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VishnuBca21&label=Profile%20views&color=0e75b6&style=flat" alt="VishnuBca21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VishnuBca21" alt="VishnuBca21" /></a> </p>
 
